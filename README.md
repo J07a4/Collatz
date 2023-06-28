@@ -1,2 +1,1 @@
 # Collatz
-# Collatz
